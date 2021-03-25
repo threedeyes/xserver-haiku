@@ -1,9 +1,2 @@
-X Server for Android
+X Server for Haiku
 
-You need to compile this code using SDL downloaded from
-
-https://github.com/pelya/commandergenius
-
-Compilation instructions:
-
-https://github.com/pelya/commandergenius/tree/sdl_android/project/jni/application/xserver
